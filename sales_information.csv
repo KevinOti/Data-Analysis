@@ -1,0 +1,1001 @@
+customerNumber,quantityOrdered,priceEach,status,comments,productName,orderDate,shippedDate,comments
+363,30,136.00,Shipped,NULL,"1917 Grand Touring Sedan",2003-01-06,2003-01-10,NULL
+363,30,136.00,Shipped,NULL,"1917 Grand Touring Sedan",2003-11-20,2003-11-25,NULL
+363,30,136.00,Shipped,NULL,"1917 Grand Touring Sedan",2004-11-04,2004-11-10,"Customer has worked with some of our vendors in the past and is aware of their MSRP"
+363,50,55.09,Shipped,NULL,"1911 Ford Town Car",2003-01-06,2003-01-10,NULL
+363,50,55.09,Shipped,NULL,"1911 Ford Town Car",2003-11-20,2003-11-25,NULL
+363,50,55.09,Shipped,NULL,"1911 Ford Town Car",2004-11-04,2004-11-10,"Customer has worked with some of our vendors in the past and is aware of their MSRP"
+363,22,75.46,Shipped,NULL,"1932 Alfa Romeo 8C2300 Spider Sport",2003-01-06,2003-01-10,NULL
+363,22,75.46,Shipped,NULL,"1932 Alfa Romeo 8C2300 Spider Sport",2003-11-20,2003-11-25,NULL
+363,22,75.46,Shipped,NULL,"1932 Alfa Romeo 8C2300 Spider Sport",2004-11-04,2004-11-10,"Customer has worked with some of our vendors in the past and is aware of their MSRP"
+363,49,35.29,Shipped,NULL,"1936 Mercedes Benz 500k Roadster",2003-01-06,2003-01-10,NULL
+363,49,35.29,Shipped,NULL,"1936 Mercedes Benz 500k Roadster",2003-11-20,2003-11-25,NULL
+363,49,35.29,Shipped,NULL,"1936 Mercedes Benz 500k Roadster",2004-11-04,2004-11-10,"Customer has worked with some of our vendors in the past and is aware of their MSRP"
+128,25,108.06,Shipped,"Check on availability.","1932 Model A Ford J-Coupe",2003-01-09,2003-01-11,"Check on availability."
+128,25,108.06,Shipped,"Check on availability.","1932 Model A Ford J-Coupe",2004-03-15,2004-03-20,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+128,25,108.06,Shipped,"Check on availability.","1932 Model A Ford J-Coupe",2003-10-04,2003-10-09,NULL
+128,25,108.06,Shipped,"Check on availability.","1932 Model A Ford J-Coupe",2004-11-05,2004-11-09,NULL
+128,26,167.06,Shipped,"Check on availability.","1928 Mercedes-Benz SSK",2003-01-09,2003-01-11,"Check on availability."
+128,26,167.06,Shipped,"Check on availability.","1928 Mercedes-Benz SSK",2004-03-15,2004-03-20,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+128,26,167.06,Shipped,"Check on availability.","1928 Mercedes-Benz SSK",2003-10-04,2003-10-09,NULL
+128,26,167.06,Shipped,"Check on availability.","1928 Mercedes-Benz SSK",2004-11-05,2004-11-09,NULL
+128,45,32.53,Shipped,"Check on availability.","1939 Chevrolet Deluxe Coupe",2003-01-09,2003-01-11,"Check on availability."
+128,45,32.53,Shipped,"Check on availability.","1939 Chevrolet Deluxe Coupe",2004-03-15,2004-03-20,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+128,45,32.53,Shipped,"Check on availability.","1939 Chevrolet Deluxe Coupe",2003-10-04,2003-10-09,NULL
+128,45,32.53,Shipped,"Check on availability.","1939 Chevrolet Deluxe Coupe",2004-11-05,2004-11-09,NULL
+128,46,44.35,Shipped,"Check on availability.","1938 Cadillac V-16 Presidential Limousine",2003-01-09,2003-01-11,"Check on availability."
+128,46,44.35,Shipped,"Check on availability.","1938 Cadillac V-16 Presidential Limousine",2004-03-15,2004-03-20,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+128,46,44.35,Shipped,"Check on availability.","1938 Cadillac V-16 Presidential Limousine",2003-10-04,2003-10-09,NULL
+128,46,44.35,Shipped,"Check on availability.","1938 Cadillac V-16 Presidential Limousine",2004-11-05,2004-11-09,NULL
+181,39,95.55,Shipped,NULL,"1937 Lincoln Berline",2003-01-10,2003-01-14,NULL
+181,39,95.55,Shipped,NULL,"1937 Lincoln Berline",2004-04-05,2004-04-10,NULL
+181,39,95.55,Shipped,NULL,"1937 Lincoln Berline",2004-11-05,2004-11-08,NULL
+181,41,43.13,Shipped,NULL,"1936 Mercedes-Benz 500K Special Roadster",2003-01-10,2003-01-14,NULL
+181,41,43.13,Shipped,NULL,"1936 Mercedes-Benz 500K Special Roadster",2004-04-05,2004-04-10,NULL
+181,41,43.13,Shipped,NULL,"1936 Mercedes-Benz 500K Special Roadster",2004-11-05,2004-11-08,NULL
+121,26,214.30,Shipped,NULL,"1952 Alpine Renault 1300",2003-01-29,2003-02-02,NULL
+121,26,214.30,Shipped,NULL,"1952 Alpine Renault 1300",2003-10-10,2003-10-15,NULL
+121,26,214.30,Shipped,NULL,"1952 Alpine Renault 1300",2004-10-15,2004-10-18,NULL
+121,26,214.30,Shipped,NULL,"1952 Alpine Renault 1300",2004-11-05,2004-11-08,NULL
+121,42,119.67,Shipped,NULL,"1962 LanciaA Delta 16V",2003-01-29,2003-02-02,NULL
+121,42,119.67,Shipped,NULL,"1962 LanciaA Delta 16V",2003-10-10,2003-10-15,NULL
+121,42,119.67,Shipped,NULL,"1962 LanciaA Delta 16V",2004-10-15,2004-10-18,NULL
+121,42,119.67,Shipped,NULL,"1962 LanciaA Delta 16V",2004-11-05,2004-11-08,NULL
+121,27,121.64,Shipped,NULL,"1958 Setra Bus",2003-01-29,2003-02-02,NULL
+121,27,121.64,Shipped,NULL,"1958 Setra Bus",2003-10-10,2003-10-15,NULL
+121,27,121.64,Shipped,NULL,"1958 Setra Bus",2004-10-15,2004-10-18,NULL
+121,27,121.64,Shipped,NULL,"1958 Setra Bus",2004-11-05,2004-11-08,NULL
+121,35,94.50,Shipped,NULL,"1940 Ford Pickup Truck",2003-01-29,2003-02-02,NULL
+121,35,94.50,Shipped,NULL,"1940 Ford Pickup Truck",2003-10-10,2003-10-15,NULL
+121,35,94.50,Shipped,NULL,"1940 Ford Pickup Truck",2004-10-15,2004-10-18,NULL
+121,35,94.50,Shipped,NULL,"1940 Ford Pickup Truck",2004-11-05,2004-11-08,NULL
+121,22,58.34,Shipped,NULL,"1926 Ford Fire Engine",2003-01-29,2003-02-02,NULL
+121,22,58.34,Shipped,NULL,"1926 Ford Fire Engine",2003-10-10,2003-10-15,NULL
+121,22,58.34,Shipped,NULL,"1926 Ford Fire Engine",2004-10-15,2004-10-18,NULL
+121,22,58.34,Shipped,NULL,"1926 Ford Fire Engine",2004-11-05,2004-11-08,NULL
+121,27,92.19,Shipped,NULL,"1913 Ford Model T Speedster",2003-01-29,2003-02-02,NULL
+121,27,92.19,Shipped,NULL,"1913 Ford Model T Speedster",2003-10-10,2003-10-15,NULL
+121,27,92.19,Shipped,NULL,"1913 Ford Model T Speedster",2004-10-15,2004-10-18,NULL
+121,27,92.19,Shipped,NULL,"1913 Ford Model T Speedster",2004-11-05,2004-11-08,NULL
+121,35,61.84,Shipped,NULL,"1934 Ford V8 Coupe",2003-01-29,2003-02-02,NULL
+121,35,61.84,Shipped,NULL,"1934 Ford V8 Coupe",2003-10-10,2003-10-15,NULL
+121,35,61.84,Shipped,NULL,"1934 Ford V8 Coupe",2004-10-15,2004-10-18,NULL
+121,35,61.84,Shipped,NULL,"1934 Ford V8 Coupe",2004-11-05,2004-11-08,NULL
+121,25,86.92,Shipped,NULL,"18th Century Vintage Horse Carriage",2003-01-29,2003-02-02,NULL
+121,25,86.92,Shipped,NULL,"18th Century Vintage Horse Carriage",2003-10-10,2003-10-15,NULL
+121,25,86.92,Shipped,NULL,"18th Century Vintage Horse Carriage",2004-10-15,2004-10-18,NULL
+121,25,86.92,Shipped,NULL,"18th Century Vintage Horse Carriage",2004-11-05,2004-11-08,NULL
+121,46,86.31,Shipped,NULL,"1917 Maxwell Touring Car",2003-01-29,2003-02-02,NULL
+121,46,86.31,Shipped,NULL,"1917 Maxwell Touring Car",2003-10-10,2003-10-15,NULL
+121,46,86.31,Shipped,NULL,"1917 Maxwell Touring Car",2004-10-15,2004-10-18,NULL
+121,46,86.31,Shipped,NULL,"1917 Maxwell Touring Car",2004-11-05,2004-11-08,NULL
+121,36,98.07,Shipped,NULL,"1940s Ford truck",2003-01-29,2003-02-02,NULL
+121,36,98.07,Shipped,NULL,"1940s Ford truck",2003-10-10,2003-10-15,NULL
+121,36,98.07,Shipped,NULL,"1940s Ford truck",2004-10-15,2004-10-18,NULL
+121,36,98.07,Shipped,NULL,"1940s Ford truck",2004-11-05,2004-11-08,NULL
+121,41,40.75,Shipped,NULL,"1939 Cadillac Limousine",2003-01-29,2003-02-02,NULL
+121,41,40.75,Shipped,NULL,"1939 Cadillac Limousine",2003-10-10,2003-10-15,NULL
+121,41,40.75,Shipped,NULL,"1939 Cadillac Limousine",2004-10-15,2004-10-18,NULL
+121,41,40.75,Shipped,NULL,"1939 Cadillac Limousine",2004-11-05,2004-11-08,NULL
+121,36,107.34,Shipped,NULL,"1962 Volkswagen Microbus",2003-01-29,2003-02-02,NULL
+121,36,107.34,Shipped,NULL,"1962 Volkswagen Microbus",2003-10-10,2003-10-15,NULL
+121,36,107.34,Shipped,NULL,"1962 Volkswagen Microbus",2004-10-15,2004-10-18,NULL
+121,36,107.34,Shipped,NULL,"1962 Volkswagen Microbus",2004-11-05,2004-11-08,NULL
+121,25,88.62,Shipped,NULL,"1936 Chrysler Airflow",2003-01-29,2003-02-02,NULL
+121,25,88.62,Shipped,NULL,"1936 Chrysler Airflow",2003-10-10,2003-10-15,NULL
+121,25,88.62,Shipped,NULL,"1936 Chrysler Airflow",2004-10-15,2004-10-18,NULL
+121,25,88.62,Shipped,NULL,"1936 Chrysler Airflow",2004-11-05,2004-11-08,NULL
+121,31,92.46,Shipped,NULL,"1980’s GM Manhattan Express",2003-01-29,2003-02-02,NULL
+121,31,92.46,Shipped,NULL,"1980’s GM Manhattan Express",2003-10-10,2003-10-15,NULL
+121,31,92.46,Shipped,NULL,"1980’s GM Manhattan Express",2004-10-15,2004-10-18,NULL
+121,31,92.46,Shipped,NULL,"1980’s GM Manhattan Express",2004-11-05,2004-11-08,NULL
+121,45,63.35,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2003-01-29,2003-02-02,NULL
+121,45,63.35,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2003-10-10,2003-10-15,NULL
+121,45,63.35,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2004-10-15,2004-10-18,NULL
+121,45,63.35,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2004-11-05,2004-11-08,NULL
+121,42,94.07,Shipped,NULL,"1982 Camaro Z28",2003-01-29,2003-02-02,NULL
+121,42,94.07,Shipped,NULL,"1982 Camaro Z28",2003-10-10,2003-10-15,NULL
+121,42,94.07,Shipped,NULL,"1982 Camaro Z28",2004-10-15,2004-10-18,NULL
+121,42,94.07,Shipped,NULL,"1982 Camaro Z28",2004-11-05,2004-11-08,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2003-01-31,2003-02-01,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2003-06-06,2003-06-11,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2003-06-27,2003-07-03,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2003-09-28,2003-10-03,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2003-10-08,2003-10-11,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2003-11-19,2003-11-20,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2003-12-02,2003-12-07,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2004-01-16,2004-01-18,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2004-04-29,2004-05-04,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2004-05-05,2004-05-06,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2004-12-02,2004-12-05,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2004-12-07,2004-12-13,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2005-02-10,2005-02-11,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2005-02-10,2005-02-11,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2005-02-16,2005-02-18,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2005-02-22,2005-02-25,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2005-03-15,2005-03-19,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2005-05-03,2005-05-05,NULL
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,34,131.44,Shipped,NULL,"1969 Corvair Monza",2005-05-31,NULL,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2003-01-31,2003-02-01,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2003-06-06,2003-06-11,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2003-06-27,2003-07-03,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2003-09-28,2003-10-03,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2003-10-08,2003-10-11,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2003-11-19,2003-11-20,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2003-12-02,2003-12-07,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2004-01-16,2004-01-18,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2004-04-29,2004-05-04,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2004-05-05,2004-05-06,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2004-12-02,2004-12-05,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2004-12-07,2004-12-13,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2005-02-10,2005-02-11,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2005-02-10,2005-02-11,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2005-02-16,2005-02-18,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2005-02-22,2005-02-25,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2005-03-15,2005-03-19,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2005-05-03,2005-05-05,NULL
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,41,111.39,Shipped,NULL,"1957 Chevy Pickup",2005-05-31,NULL,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2003-01-31,2003-02-01,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2003-06-06,2003-06-11,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2003-06-27,2003-07-03,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2003-09-28,2003-10-03,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2003-10-08,2003-10-11,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2003-11-19,2003-11-20,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2003-12-02,2003-12-07,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2004-01-16,2004-01-18,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2004-04-29,2004-05-04,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2004-05-05,2004-05-06,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2004-12-02,2004-12-05,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2004-12-07,2004-12-13,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2005-02-10,2005-02-11,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2005-02-10,2005-02-11,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2005-02-16,2005-02-18,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2005-02-22,2005-02-25,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2005-03-15,2005-03-19,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2005-05-03,2005-05-05,NULL
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,24,135.90,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2005-05-31,NULL,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2003-01-31,2003-02-01,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2003-06-06,2003-06-11,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2003-06-27,2003-07-03,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2003-09-28,2003-10-03,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2003-10-08,2003-10-11,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2003-11-19,2003-11-20,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2003-12-02,2003-12-07,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2004-01-16,2004-01-18,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2004-04-29,2004-05-04,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2004-05-05,2004-05-06,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2004-12-02,2004-12-05,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2004-12-07,2004-12-13,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2005-02-10,2005-02-11,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2005-02-10,2005-02-11,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2005-02-16,2005-02-18,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2005-02-22,2005-02-25,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2005-03-15,2005-03-19,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2005-05-03,2005-05-05,NULL
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,29,122.73,Shipped,NULL,"1964 Mercedes Tour Bus",2005-05-31,NULL,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2003-01-31,2003-02-01,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2003-06-06,2003-06-11,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2003-06-27,2003-07-03,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2003-09-28,2003-10-03,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2003-10-08,2003-10-11,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2003-11-19,2003-11-20,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2003-12-02,2003-12-07,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2004-01-16,2004-01-18,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2004-04-29,2004-05-04,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2004-05-05,2004-05-06,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2004-12-02,2004-12-05,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2004-12-07,2004-12-13,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2005-02-10,2005-02-11,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2005-02-10,2005-02-11,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2005-02-16,2005-02-18,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2005-02-22,2005-02-25,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2005-03-15,2005-03-19,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2005-05-03,2005-05-05,NULL
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,23,165.95,Shipped,NULL,"1992 Ferrari 360 Spider red",2005-05-31,NULL,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2003-01-31,2003-02-01,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2003-06-06,2003-06-11,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2003-06-27,2003-07-03,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2003-09-28,2003-10-03,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2003-10-08,2003-10-11,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2003-11-19,2003-11-20,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2003-12-02,2003-12-07,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2004-01-16,2004-01-18,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2004-04-29,2004-05-04,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2004-05-05,2004-05-06,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2004-12-02,2004-12-05,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2004-12-07,2004-12-13,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2005-02-10,2005-02-11,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2005-02-10,2005-02-11,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2005-02-16,2005-02-18,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2005-02-22,2005-02-25,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2005-03-15,2005-03-19,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2005-05-03,2005-05-05,NULL
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,38,119.20,Shipped,NULL,"1970 Triumph Spitfire",2005-05-31,NULL,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2003-01-31,2003-02-01,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2003-06-06,2003-06-11,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2003-06-27,2003-07-03,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2003-09-28,2003-10-03,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2003-10-08,2003-10-11,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2003-11-19,2003-11-20,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2003-12-02,2003-12-07,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2004-01-16,2004-01-18,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2004-04-29,2004-05-04,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2004-05-05,2004-05-06,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2004-12-02,2004-12-05,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2004-12-07,2004-12-13,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2005-02-10,2005-02-11,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2005-02-10,2005-02-11,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2005-02-16,2005-02-18,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2005-02-22,2005-02-25,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2005-03-15,2005-03-19,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2005-05-03,2005-05-05,NULL
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,35,52.02,Shipped,NULL,"1970 Dodge Coronet",2005-05-31,NULL,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2003-01-31,2003-02-01,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2003-06-06,2003-06-11,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2003-06-27,2003-07-03,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2003-09-28,2003-10-03,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2003-10-08,2003-10-11,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2003-11-19,2003-11-20,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2003-12-02,2003-12-07,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2004-01-16,2004-01-18,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2004-04-29,2004-05-04,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2004-05-05,2004-05-06,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2004-12-02,2004-12-05,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2004-12-07,2004-12-13,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2005-02-10,2005-02-11,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2005-02-10,2005-02-11,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2005-02-16,2005-02-18,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2005-02-22,2005-02-25,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2005-03-15,2005-03-19,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2005-05-03,2005-05-05,NULL
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,44,30.41,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2005-05-31,NULL,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2003-01-31,2003-02-01,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2003-06-06,2003-06-11,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2003-06-27,2003-07-03,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2003-09-28,2003-10-03,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2003-10-08,2003-10-11,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2003-11-19,2003-11-20,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2003-12-02,2003-12-07,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2004-01-16,2004-01-18,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2004-04-29,2004-05-04,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2004-05-05,2004-05-06,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2004-12-02,2004-12-05,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2004-12-07,2004-12-13,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2005-02-10,2005-02-11,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2005-02-10,2005-02-11,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2005-02-16,2005-02-18,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2005-02-22,2005-02-25,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2005-03-15,2005-03-19,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2005-05-03,2005-05-05,NULL
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,26,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2005-05-31,NULL,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2003-01-31,2003-02-01,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2003-06-06,2003-06-11,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2003-06-27,2003-07-03,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2003-09-28,2003-10-03,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2003-10-08,2003-10-11,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2003-11-19,2003-11-20,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2003-12-02,2003-12-07,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2004-01-16,2004-01-18,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2004-04-29,2004-05-04,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2004-05-05,2004-05-06,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2004-12-02,2004-12-05,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2004-12-07,2004-12-13,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2005-02-10,2005-02-11,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2005-02-10,2005-02-11,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2005-02-16,2005-02-18,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2005-02-22,2005-02-25,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2005-03-15,2005-03-19,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2005-05-03,2005-05-05,NULL
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,35,51.95,Shipped,NULL,"1954 Greyhound Scenicruiser",2005-05-31,NULL,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2003-01-31,2003-02-01,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2003-06-06,2003-06-11,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2003-06-27,2003-07-03,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2003-09-28,2003-10-03,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2003-10-08,2003-10-11,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2003-11-19,2003-11-20,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2003-12-02,2003-12-07,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2004-01-16,2004-01-18,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2004-04-29,2004-05-04,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2004-05-05,2004-05-06,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2004-12-02,2004-12-05,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2004-12-07,2004-12-13,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2005-02-10,2005-02-11,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2005-02-10,2005-02-11,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2005-02-16,2005-02-18,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2005-02-22,2005-02-25,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2005-03-15,2005-03-19,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2005-05-03,2005-05-05,NULL
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,49,56.55,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2005-05-31,NULL,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2003-01-31,2003-02-01,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2003-06-06,2003-06-11,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2003-06-27,2003-07-03,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2003-09-28,2003-10-03,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2003-10-08,2003-10-11,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2003-11-19,2003-11-20,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2003-12-02,2003-12-07,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2004-01-16,2004-01-18,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2004-04-29,2004-05-04,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2004-05-05,2004-05-06,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2004-12-02,2004-12-05,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2004-12-07,2004-12-13,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2005-02-10,2005-02-11,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2005-02-10,2005-02-11,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2005-02-16,2005-02-18,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2005-02-22,2005-02-25,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2005-03-15,2005-03-19,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2005-05-03,2005-05-05,NULL
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,33,114.59,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2005-05-31,NULL,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2003-01-31,2003-02-01,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2003-06-06,2003-06-11,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2003-06-27,2003-07-03,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2003-09-28,2003-10-03,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2003-10-08,2003-10-11,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2003-11-19,2003-11-20,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2003-12-02,2003-12-07,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2003-12-03,2003-12-07," I need all the information I can get on our competitors."
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2004-01-16,2004-01-18,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2004-04-29,2004-05-04,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2004-05-05,2004-05-06,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2004-06-24,NULL,"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2004-08-09,2004-08-15,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2004-10-16,2004-10-20,"Difficult to negotiate with customer. We need more marketing materials"
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2004-12-02,2004-12-05,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2004-12-07,2004-12-13,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2004-12-10,2004-12-16,"Customer requested that DHL is used for this shipping"
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2005-02-10,2005-02-11,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2005-02-10,2005-02-11,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2005-02-16,2005-02-18,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2005-02-22,2005-02-25,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2005-03-01,2005-03-06,"Disputed then Resolved on 3/15/2005. Customer doesn't like the craftsmaship of the models."
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2005-03-15,2005-03-19,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2005-05-03,2005-05-05,NULL
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2005-05-13,2005-05-19,"Customer doesn't like the colors and precision of the models."
+141,32,53.31,Shipped,NULL,"1962 City of Detroit Streetcar",2005-05-31,NULL,NULL
+145,50,127.84,Shipped,NULL,"1972 Alfa Romeo GTA",2003-02-11,2003-02-12,NULL
+145,50,127.84,Shipped,NULL,"1972 Alfa Romeo GTA",2004-04-09,2004-04-10,NULL
+145,50,127.84,Shipped,NULL,"1972 Alfa Romeo GTA",2004-06-08,2004-06-10,NULL
+145,50,127.84,Shipped,NULL,"1972 Alfa Romeo GTA",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,50,127.84,Shipped,NULL,"1972 Alfa Romeo GTA",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,41,205.72,Shipped,NULL,"2001 Ferrari Enzo",2003-02-11,2003-02-12,NULL
+145,41,205.72,Shipped,NULL,"2001 Ferrari Enzo",2004-04-09,2004-04-10,NULL
+145,41,205.72,Shipped,NULL,"2001 Ferrari Enzo",2004-06-08,2004-06-10,NULL
+145,41,205.72,Shipped,NULL,"2001 Ferrari Enzo",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,41,205.72,Shipped,NULL,"2001 Ferrari Enzo",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,29,141.88,Shipped,NULL,"1969 Ford Falcon",2003-02-11,2003-02-12,NULL
+145,29,141.88,Shipped,NULL,"1969 Ford Falcon",2004-04-09,2004-04-10,NULL
+145,29,141.88,Shipped,NULL,"1969 Ford Falcon",2004-06-08,2004-06-10,NULL
+145,29,141.88,Shipped,NULL,"1969 Ford Falcon",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,29,141.88,Shipped,NULL,"1969 Ford Falcon",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,22,136.59,Shipped,NULL,"1903 Ford Model A",2003-02-11,2003-02-12,NULL
+145,22,136.59,Shipped,NULL,"1903 Ford Model A",2004-04-09,2004-04-10,NULL
+145,22,136.59,Shipped,NULL,"1903 Ford Model A",2004-06-08,2004-06-10,NULL
+145,22,136.59,Shipped,NULL,"1903 Ford Model A",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,22,136.59,Shipped,NULL,"1903 Ford Model A",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,38,87.73,Shipped,NULL,"Collectable Wooden Train",2003-02-11,2003-02-12,NULL
+145,38,87.73,Shipped,NULL,"Collectable Wooden Train",2004-04-09,2004-04-10,NULL
+145,38,87.73,Shipped,NULL,"Collectable Wooden Train",2004-06-08,2004-06-10,NULL
+145,38,87.73,Shipped,NULL,"Collectable Wooden Train",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,38,87.73,Shipped,NULL,"Collectable Wooden Train",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,41,75.48,Shipped,NULL,"1904 Buick Runabout",2003-02-11,2003-02-12,NULL
+145,41,75.48,Shipped,NULL,"1904 Buick Runabout",2004-04-09,2004-04-10,NULL
+145,41,75.48,Shipped,NULL,"1904 Buick Runabout",2004-06-08,2004-06-10,NULL
+145,41,75.48,Shipped,NULL,"1904 Buick Runabout",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,41,75.48,Shipped,NULL,"1904 Buick Runabout",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,43,117.97,Shipped,NULL,"18th century schooner",2003-02-11,2003-02-12,NULL
+145,43,117.97,Shipped,NULL,"18th century schooner",2004-04-09,2004-04-10,NULL
+145,43,117.97,Shipped,NULL,"18th century schooner",2004-06-08,2004-06-10,NULL
+145,43,117.97,Shipped,NULL,"18th century schooner",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,43,117.97,Shipped,NULL,"18th century schooner",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,44,73.46,Shipped,NULL,"1912 Ford Model T Delivery Wagon",2003-02-11,2003-02-12,NULL
+145,44,73.46,Shipped,NULL,"1912 Ford Model T Delivery Wagon",2004-04-09,2004-04-10,NULL
+145,44,73.46,Shipped,NULL,"1912 Ford Model T Delivery Wagon",2004-06-08,2004-06-10,NULL
+145,44,73.46,Shipped,NULL,"1912 Ford Model T Delivery Wagon",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,44,73.46,Shipped,NULL,"1912 Ford Model T Delivery Wagon",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,50,75.47,Shipped,NULL,"1940 Ford Delivery Sedan",2003-02-11,2003-02-12,NULL
+145,50,75.47,Shipped,NULL,"1940 Ford Delivery Sedan",2004-04-09,2004-04-10,NULL
+145,50,75.47,Shipped,NULL,"1940 Ford Delivery Sedan",2004-06-08,2004-06-10,NULL
+145,50,75.47,Shipped,NULL,"1940 Ford Delivery Sedan",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,50,75.47,Shipped,NULL,"1940 Ford Delivery Sedan",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,41,54.00,Shipped,NULL,"The Schooner Bluenose",2003-02-11,2003-02-12,NULL
+145,41,54.00,Shipped,NULL,"The Schooner Bluenose",2004-04-09,2004-04-10,NULL
+145,41,54.00,Shipped,NULL,"The Schooner Bluenose",2004-06-08,2004-06-10,NULL
+145,41,54.00,Shipped,NULL,"The Schooner Bluenose",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,41,54.00,Shipped,NULL,"The Schooner Bluenose",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,29,86.61,Shipped,NULL,"The Mayflower",2003-02-11,2003-02-12,NULL
+145,29,86.61,Shipped,NULL,"The Mayflower",2004-04-09,2004-04-10,NULL
+145,29,86.61,Shipped,NULL,"The Mayflower",2004-06-08,2004-06-10,NULL
+145,29,86.61,Shipped,NULL,"The Mayflower",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,29,86.61,Shipped,NULL,"The Mayflower",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,31,60.72,Shipped,NULL,"The USS Constitution Ship",2003-02-11,2003-02-12,NULL
+145,31,60.72,Shipped,NULL,"The USS Constitution Ship",2004-04-09,2004-04-10,NULL
+145,31,60.72,Shipped,NULL,"The USS Constitution Ship",2004-06-08,2004-06-10,NULL
+145,31,60.72,Shipped,NULL,"The USS Constitution Ship",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,31,60.72,Shipped,NULL,"The USS Constitution Ship",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,39,92.16,Shipped,NULL,"The Titanic",2003-02-11,2003-02-12,NULL
+145,39,92.16,Shipped,NULL,"The Titanic",2004-04-09,2004-04-10,NULL
+145,39,92.16,Shipped,NULL,"The Titanic",2004-06-08,2004-06-10,NULL
+145,39,92.16,Shipped,NULL,"The Titanic",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,39,92.16,Shipped,NULL,"The Titanic",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,22,99.31,Shipped,NULL,"The Queen Mary",2003-02-11,2003-02-12,NULL
+145,22,99.31,Shipped,NULL,"The Queen Mary",2004-04-09,2004-04-10,NULL
+145,22,99.31,Shipped,NULL,"The Queen Mary",2004-06-08,2004-06-10,NULL
+145,22,99.31,Shipped,NULL,"The Queen Mary",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,22,99.31,Shipped,NULL,"The Queen Mary",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+145,25,44.77,Shipped,NULL,"Pont Yacht",2003-02-11,2003-02-12,NULL
+145,25,44.77,Shipped,NULL,"Pont Yacht",2004-04-09,2004-04-10,NULL
+145,25,44.77,Shipped,NULL,"Pont Yacht",2004-06-08,2004-06-10,NULL
+145,25,44.77,Shipped,NULL,"Pont Yacht",2004-11-10,2004-11-13,"Order was disputed and resolved on 12/1/04. The Sales Manager was involved. Customer claims the scales of the models don't match what was discussed."
+145,25,44.77,Shipped,NULL,"Pont Yacht",2005-04-15,2005-04-21,"Customer claims container with shipment was damaged during shipping and some items were missing. I am talking to FedEx about this."
+278,36,134.04,Shipped,NULL,"1980s Black Hawk Helicopter",2003-02-17,2003-02-21,NULL
+278,36,134.04,Shipped,NULL,"1980s Black Hawk Helicopter",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,36,134.04,Shipped,NULL,"1980s Black Hawk Helicopter",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,34,81.10,Shipped,NULL,"P-51-D Mustang",2003-02-17,2003-02-21,NULL
+278,34,81.10,Shipped,NULL,"P-51-D Mustang",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,34,81.10,Shipped,NULL,"P-51-D Mustang",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,41,80.86,Shipped,NULL,"1999 Yamaha Speed Boat",2003-02-17,2003-02-21,NULL
+278,41,80.86,Shipped,NULL,"1999 Yamaha Speed Boat",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,41,80.86,Shipped,NULL,"1999 Yamaha Speed Boat",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,41,94.22,Shipped,NULL,"1941 Chevrolet Special Deluxe Cabriolet",2003-02-17,2003-02-21,NULL
+278,41,94.22,Shipped,NULL,"1941 Chevrolet Special Deluxe Cabriolet",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,41,94.22,Shipped,NULL,"1941 Chevrolet Special Deluxe Cabriolet",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,28,107.23,Shipped,NULL,"1928 British Royal Navy Airplane",2003-02-17,2003-02-21,NULL
+278,28,107.23,Shipped,NULL,"1928 British Royal Navy Airplane",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,28,107.23,Shipped,NULL,"1928 British Royal Navy Airplane",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,49,65.77,Shipped,NULL,"1900s Vintage Bi-Plane",2003-02-17,2003-02-21,NULL
+278,49,65.77,Shipped,NULL,"1900s Vintage Bi-Plane",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,49,65.77,Shipped,NULL,"1900s Vintage Bi-Plane",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,31,55.89,Shipped,NULL,"1937 Horch 930V Limousine",2003-02-17,2003-02-21,NULL
+278,31,55.89,Shipped,NULL,"1937 Horch 930V Limousine",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,31,55.89,Shipped,NULL,"1937 Horch 930V Limousine",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,50,55.96,Shipped,NULL,"Corsair F4U ( Bird Cage)",2003-02-17,2003-02-21,NULL
+278,50,55.96,Shipped,NULL,"Corsair F4U ( Bird Cage)",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,50,55.96,Shipped,NULL,"Corsair F4U ( Bird Cage)",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,26,71.00,Shipped,NULL,"1900s Vintage Tri-Plane",2003-02-17,2003-02-21,NULL
+278,26,71.00,Shipped,NULL,"1900s Vintage Tri-Plane",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,26,71.00,Shipped,NULL,"1900s Vintage Tri-Plane",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,33,65.35,Shipped,NULL,"1928 Ford Phaeton Deluxe",2003-02-17,2003-02-21,NULL
+278,33,65.35,Shipped,NULL,"1928 Ford Phaeton Deluxe",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,33,65.35,Shipped,NULL,"1928 Ford Phaeton Deluxe",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,39,35.78,Shipped,NULL,"1930 Buick Marquette Phaeton",2003-02-17,2003-02-21,NULL
+278,39,35.78,Shipped,NULL,"1930 Buick Marquette Phaeton",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,39,35.78,Shipped,NULL,"1930 Buick Marquette Phaeton",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,31,91.34,Shipped,NULL,"American Airlines: B767-300",2003-02-17,2003-02-21,NULL
+278,31,91.34,Shipped,NULL,"American Airlines: B767-300",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,31,91.34,Shipped,NULL,"American Airlines: B767-300",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,30,85.09,Shipped,NULL,"HMS Bounty",2003-02-17,2003-02-21,NULL
+278,30,85.09,Shipped,NULL,"HMS Bounty",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,30,85.09,Shipped,NULL,"HMS Bounty",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,34,99.72,Shipped,NULL,"America West Airlines B757-200",2003-02-17,2003-02-21,NULL
+278,34,99.72,Shipped,NULL,"America West Airlines B757-200",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,34,99.72,Shipped,NULL,"America West Airlines B757-200",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,32,113.90,Shipped,NULL,"ATA: B757-300",2003-02-17,2003-02-21,NULL
+278,32,113.90,Shipped,NULL,"ATA: B757-300",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,32,113.90,Shipped,NULL,"ATA: B757-300",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,44,76.00,Shipped,NULL,"F/A 18 Hornet 1/72",2003-02-17,2003-02-21,NULL
+278,44,76.00,Shipped,NULL,"F/A 18 Hornet 1/72",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,44,76.00,Shipped,NULL,"F/A 18 Hornet 1/72",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,48,70.33,Shipped,NULL,"American Airlines: MD-11S",2003-02-17,2003-02-21,NULL
+278,48,70.33,Shipped,NULL,"American Airlines: MD-11S",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,48,70.33,Shipped,NULL,"American Airlines: MD-11S",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+278,48,43.70,Shipped,NULL,"Boeing X-32A JSF",2003-02-17,2003-02-21,NULL
+278,48,43.70,Shipped,NULL,"Boeing X-32A JSF",2003-11-05,2003-11-09,"Cautious optimism. We have happy customers here, if we can keep them well stocked.  I need all the information I can get on the planned shippments of Porches"
+278,48,43.70,Shipped,NULL,"Boeing X-32A JSF",2004-11-12,2004-11-18,"Customer very concerned about the exact color of the models. There is high risk that he may dispute the order because there is a slight color mismatch"
+131,30,81.35,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1969 Harley Davidson Ultimate Chopper",2003-02-24,2003-02-26,"Difficult to negotiate with customer. We need more marketing materials"
+131,30,81.35,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1969 Harley Davidson Ultimate Chopper",2004-05-07,NULL,"Order was mistakenly placed. The warehouse noticed the lack of documentation."
+131,30,81.35,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1969 Harley Davidson Ultimate Chopper",2004-09-08,2004-09-11,"They want to reevaluate their terms agreement with Finance."
+131,30,81.35,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1969 Harley Davidson Ultimate Chopper",2004-11-15,2004-11-16,NULL
+131,39,105.86,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1996 Moto Guzzi 1100i",2003-02-24,2003-02-26,"Difficult to negotiate with customer. We need more marketing materials"
+131,39,105.86,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1996 Moto Guzzi 1100i",2004-05-07,NULL,"Order was mistakenly placed. The warehouse noticed the lack of documentation."
+131,39,105.86,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1996 Moto Guzzi 1100i",2004-09-08,2004-09-11,"They want to reevaluate their terms agreement with Finance."
+131,39,105.86,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1996 Moto Guzzi 1100i",2004-11-15,2004-11-16,NULL
+131,27,172.36,Shipped,"Difficult to negotiate with customer. We need more marketing materials","2003 Harley-Davidson Eagle Drag Bike",2003-02-24,2003-02-26,"Difficult to negotiate with customer. We need more marketing materials"
+131,27,172.36,Shipped,"Difficult to negotiate with customer. We need more marketing materials","2003 Harley-Davidson Eagle Drag Bike",2004-05-07,NULL,"Order was mistakenly placed. The warehouse noticed the lack of documentation."
+131,27,172.36,Shipped,"Difficult to negotiate with customer. We need more marketing materials","2003 Harley-Davidson Eagle Drag Bike",2004-09-08,2004-09-11,"They want to reevaluate their terms agreement with Finance."
+131,27,172.36,Shipped,"Difficult to negotiate with customer. We need more marketing materials","2003 Harley-Davidson Eagle Drag Bike",2004-11-15,2004-11-16,NULL
+131,21,122.00,Shipped,"Difficult to negotiate with customer. We need more marketing materials","2002 Suzuki XREO",2003-02-24,2003-02-26,"Difficult to negotiate with customer. We need more marketing materials"
+131,21,122.00,Shipped,"Difficult to negotiate with customer. We need more marketing materials","2002 Suzuki XREO",2004-05-07,NULL,"Order was mistakenly placed. The warehouse noticed the lack of documentation."
+131,21,122.00,Shipped,"Difficult to negotiate with customer. We need more marketing materials","2002 Suzuki XREO",2004-09-08,2004-09-11,"They want to reevaluate their terms agreement with Finance."
+131,21,122.00,Shipped,"Difficult to negotiate with customer. We need more marketing materials","2002 Suzuki XREO",2004-11-15,2004-11-16,NULL
+131,29,52.70,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1936 Harley Davidson El Knucklehead",2003-02-24,2003-02-26,"Difficult to negotiate with customer. We need more marketing materials"
+131,29,52.70,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1936 Harley Davidson El Knucklehead",2004-05-07,NULL,"Order was mistakenly placed. The warehouse noticed the lack of documentation."
+131,29,52.70,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1936 Harley Davidson El Knucklehead",2004-09-08,2004-09-11,"They want to reevaluate their terms agreement with Finance."
+131,29,52.70,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1936 Harley Davidson El Knucklehead",2004-11-15,2004-11-16,NULL
+131,25,96.92,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1997 BMW R 1100 S",2003-02-24,2003-02-26,"Difficult to negotiate with customer. We need more marketing materials"
+131,25,96.92,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1997 BMW R 1100 S",2004-05-07,NULL,"Order was mistakenly placed. The warehouse noticed the lack of documentation."
+131,25,96.92,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1997 BMW R 1100 S",2004-09-08,2004-09-11,"They want to reevaluate their terms agreement with Finance."
+131,25,96.92,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1997 BMW R 1100 S",2004-11-15,2004-11-16,NULL
+131,38,73.12,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1960 BSA Gold Star DBD34",2003-02-24,2003-02-26,"Difficult to negotiate with customer. We need more marketing materials"
+131,38,73.12,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1960 BSA Gold Star DBD34",2004-05-07,NULL,"Order was mistakenly placed. The warehouse noticed the lack of documentation."
+131,38,73.12,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1960 BSA Gold Star DBD34",2004-09-08,2004-09-11,"They want to reevaluate their terms agreement with Finance."
+131,38,73.12,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1960 BSA Gold Star DBD34",2004-11-15,2004-11-16,NULL
+131,20,88.90,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1997 BMW F650 ST",2003-02-24,2003-02-26,"Difficult to negotiate with customer. We need more marketing materials"
+131,20,88.90,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1997 BMW F650 ST",2004-05-07,NULL,"Order was mistakenly placed. The warehouse noticed the lack of documentation."
+131,20,88.90,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1997 BMW F650 ST",2004-09-08,2004-09-11,"They want to reevaluate their terms agreement with Finance."
+131,20,88.90,Shipped,"Difficult to negotiate with customer. We need more marketing materials","1997 BMW F650 ST",2004-11-15,2004-11-16,NULL
+385,33,165.38,Shipped,NULL,"1968 Ford Mustang",2003-03-03,2003-03-08,NULL
+385,33,165.38,Shipped,NULL,"1968 Ford Mustang",2003-11-27,2003-12-03,NULL
+385,33,165.38,Shipped,NULL,"1968 Ford Mustang",2004-11-16,2004-11-21,NULL
+385,45,96.30,Shipped,NULL,"1968 Dodge Charger",2003-03-03,2003-03-08,NULL
+385,45,96.30,Shipped,NULL,"1968 Dodge Charger",2003-11-27,2003-12-03,NULL
+385,45,96.30,Shipped,NULL,"1968 Dodge Charger",2004-11-16,2004-11-21,NULL
+385,39,75.81,Shipped,NULL,"1970 Plymouth Hemi Cuda",2003-03-03,2003-03-08,NULL
+385,39,75.81,Shipped,NULL,"1970 Plymouth Hemi Cuda",2003-11-27,2003-12-03,NULL
+385,39,75.81,Shipped,NULL,"1970 Plymouth Hemi Cuda",2004-11-16,2004-11-21,NULL
+385,36,107.10,Shipped,NULL,"1969 Dodge Charger",2003-03-03,2003-03-08,NULL
+385,36,107.10,Shipped,NULL,"1969 Dodge Charger",2003-11-27,2003-12-03,NULL
+385,36,107.10,Shipped,NULL,"1969 Dodge Charger",2004-11-16,2004-11-21,NULL
+385,38,67.76,Shipped,NULL,"1948 Porsche 356-A Roadster",2003-03-03,2003-03-08,NULL
+385,38,67.76,Shipped,NULL,"1948 Porsche 356-A Roadster",2003-11-27,2003-12-03,NULL
+385,38,67.76,Shipped,NULL,"1948 Porsche 356-A Roadster",2004-11-16,2004-11-21,NULL
+385,26,73.17,Shipped,NULL,"1969 Dodge Super Bee",2003-03-03,2003-03-08,NULL
+385,26,73.17,Shipped,NULL,"1969 Dodge Super Bee",2003-11-27,2003-12-03,NULL
+385,26,73.17,Shipped,NULL,"1969 Dodge Super Bee",2004-11-16,2004-11-21,NULL
+385,29,132.29,Shipped,NULL,"1976 Ford Gran Torino",2003-03-03,2003-03-08,NULL
+385,29,132.29,Shipped,NULL,"1976 Ford Gran Torino",2003-11-27,2003-12-03,NULL
+385,29,132.29,Shipped,NULL,"1976 Ford Gran Torino",2004-11-16,2004-11-21,NULL
+385,43,52.84,Shipped,NULL,"1957 Vespa GS150",2003-03-03,2003-03-08,NULL
+385,43,52.84,Shipped,NULL,"1957 Vespa GS150",2003-11-27,2003-12-03,NULL
+385,43,52.84,Shipped,NULL,"1957 Vespa GS150",2004-11-16,2004-11-21,NULL
+385,44,139.87,Shipped,NULL,"1957 Corvette Convertible",2003-03-03,2003-03-08,NULL
+385,44,139.87,Shipped,NULL,"1957 Corvette Convertible",2003-11-27,2003-12-03,NULL
+385,44,139.87,Shipped,NULL,"1957 Corvette Convertible",2004-11-16,2004-11-21,NULL
+385,35,64.41,Shipped,NULL,"1982 Ducati 900 Monster",2003-03-03,2003-03-08,NULL
+385,35,64.41,Shipped,NULL,"1982 Ducati 900 Monster",2003-11-27,2003-12-03,NULL
+385,35,64.41,Shipped,NULL,"1982 Ducati 900 Monster",2004-11-16,2004-11-21,NULL
+385,30,60.01,Shipped,NULL,"1971 Alpine Renault 1600s",2003-03-03,2003-03-08,NULL
+385,30,60.01,Shipped,NULL,"1971 Alpine Renault 1600s",2003-11-27,2003-12-03,NULL
+385,30,60.01,Shipped,NULL,"1971 Alpine Renault 1600s",2004-11-16,2004-11-21,NULL
+385,40,132.00,Shipped,NULL,"1956 Porsche 356A Coupe",2003-03-03,2003-03-08,NULL
+385,40,132.00,Shipped,NULL,"1956 Porsche 356A Coupe",2003-11-27,2003-12-03,NULL
+385,40,132.00,Shipped,NULL,"1956 Porsche 356A Coupe",2004-11-16,2004-11-21,NULL
+385,31,67.10,Shipped,NULL,"1961 Chevrolet Impala",2003-03-03,2003-03-08,NULL
+385,31,67.10,Shipped,NULL,"1961 Chevrolet Impala",2003-11-27,2003-12-03,NULL
+385,31,67.10,Shipped,NULL,"1961 Chevrolet Impala",2004-11-16,2004-11-21,NULL
+385,27,36.21,Shipped,NULL,"1982 Ducati 996 R",2003-03-03,2003-03-08,NULL
+385,27,36.21,Shipped,NULL,"1982 Ducati 996 R",2003-11-27,2003-12-03,NULL
+385,27,36.21,Shipped,NULL,"1982 Ducati 996 R",2004-11-16,2004-11-21,NULL
+385,31,87.76,Shipped,NULL,"1974 Ducati 350 Mk3 Desmo",2003-03-03,2003-03-08,NULL
+385,31,87.76,Shipped,NULL,"1974 Ducati 350 Mk3 Desmo",2003-11-27,2003-12-03,NULL
+385,31,87.76,Shipped,NULL,"1974 Ducati 350 Mk3 Desmo",2004-11-16,2004-11-21,NULL
+385,34,74.85,Shipped,NULL,"2002 Yamaha YZR M1",2003-03-03,2003-03-08,NULL
+385,34,74.85,Shipped,NULL,"2002 Yamaha YZR M1",2003-11-27,2003-12-03,NULL
+385,34,74.85,Shipped,NULL,"2002 Yamaha YZR M1",2004-11-16,2004-11-21,NULL
+486,26,117.48,Shipped,"Customer requested that FedEx Ground is used for this shipping","1993 Mazda RX-7",2003-03-10,2003-03-11,"Customer requested that FedEx Ground is used for this shipping"
+486,26,117.48,Shipped,"Customer requested that FedEx Ground is used for this shipping","1993 Mazda RX-7",2004-04-03,2004-04-08,NULL
+486,26,117.48,Shipped,"Customer requested that FedEx Ground is used for this shipping","1993 Mazda RX-7",2004-11-17,2004-11-23,"Customer requested special shippment. The instructions were passed along to the warehouse"
+486,38,137.98,Shipped,"Customer requested that FedEx Ground is used for this shipping","1995 Honda Civic",2003-03-10,2003-03-11,"Customer requested that FedEx Ground is used for this shipping"
+486,38,137.98,Shipped,"Customer requested that FedEx Ground is used for this shipping","1995 Honda Civic",2004-04-03,2004-04-08,NULL
+486,38,137.98,Shipped,"Customer requested that FedEx Ground is used for this shipping","1995 Honda Civic",2004-11-17,2004-11-23,"Customer requested special shippment. The instructions were passed along to the warehouse"
+486,26,126.72,Shipped,"Customer requested that FedEx Ground is used for this shipping","1999 Indy 500 Monte Carlo SS",2003-03-10,2003-03-11,"Customer requested that FedEx Ground is used for this shipping"
+486,26,126.72,Shipped,"Customer requested that FedEx Ground is used for this shipping","1999 Indy 500 Monte Carlo SS",2004-04-03,2004-04-08,NULL
+486,26,126.72,Shipped,"Customer requested that FedEx Ground is used for this shipping","1999 Indy 500 Monte Carlo SS",2004-11-17,2004-11-23,"Customer requested special shippment. The instructions were passed along to the warehouse"
+486,46,160.87,Shipped,"Customer requested that FedEx Ground is used for this shipping","1992 Ferrari 360 Spider red",2003-03-10,2003-03-11,"Customer requested that FedEx Ground is used for this shipping"
+486,46,160.87,Shipped,"Customer requested that FedEx Ground is used for this shipping","1992 Ferrari 360 Spider red",2004-04-03,2004-04-08,NULL
+486,46,160.87,Shipped,"Customer requested that FedEx Ground is used for this shipping","1992 Ferrari 360 Spider red",2004-11-17,2004-11-23,"Customer requested special shippment. The instructions were passed along to the warehouse"
+486,47,125.74,Shipped,"Customer requested that FedEx Ground is used for this shipping","1948 Porsche Type 356 Roadster",2003-03-10,2003-03-11,"Customer requested that FedEx Ground is used for this shipping"
+486,47,125.74,Shipped,"Customer requested that FedEx Ground is used for this shipping","1948 Porsche Type 356 Roadster",2004-04-03,2004-04-08,NULL
+486,47,125.74,Shipped,"Customer requested that FedEx Ground is used for this shipping","1948 Porsche Type 356 Roadster",2004-11-17,2004-11-23,"Customer requested special shippment. The instructions were passed along to the warehouse"
+486,29,32.10,Shipped,"Customer requested that FedEx Ground is used for this shipping","1982 Lamborghini Diablo",2003-03-10,2003-03-11,"Customer requested that FedEx Ground is used for this shipping"
+486,29,32.10,Shipped,"Customer requested that FedEx Ground is used for this shipping","1982 Lamborghini Diablo",2004-04-03,2004-04-08,NULL
+486,29,32.10,Shipped,"Customer requested that FedEx Ground is used for this shipping","1982 Lamborghini Diablo",2004-11-17,2004-11-23,"Customer requested special shippment. The instructions were passed along to the warehouse"
+187,37,118.22,Shipped,NULL,"1965 Aston Martin DB5",2003-03-18,2003-03-20,NULL
+187,37,118.22,Shipped,NULL,"1965 Aston Martin DB5",2004-10-14,2004-10-17,NULL
+187,37,118.22,Shipped,NULL,"1965 Aston Martin DB5",2004-11-17,2004-11-18,NULL
+187,42,153.00,Shipped,NULL,"1917 Grand Touring Sedan",2003-03-18,2003-03-20,NULL
+187,42,153.00,Shipped,NULL,"1917 Grand Touring Sedan",2004-10-14,2004-10-17,NULL
+187,42,153.00,Shipped,NULL,"1917 Grand Touring Sedan",2004-11-17,2004-11-18,NULL
+187,32,51.46,Shipped,NULL,"1911 Ford Town Car",2003-03-18,2003-03-20,NULL
+187,32,51.46,Shipped,NULL,"1911 Ford Town Car",2004-10-14,2004-10-17,NULL
+187,32,51.46,Shipped,NULL,"1911 Ford Town Car",2004-11-17,2004-11-18,NULL
+187,33,115.69,Shipped,NULL,"1932 Model A Ford J-Coupe",2003-03-18,2003-03-20,NULL
+187,33,115.69,Shipped,NULL,"1932 Model A Ford J-Coupe",2004-10-14,2004-10-17,NULL
+187,33,115.69,Shipped,NULL,"1932 Model A Ford J-Coupe",2004-11-17,2004-11-18,NULL
+187,31,163.69,Shipped,NULL,"1928 Mercedes-Benz SSK",2003-03-18,2003-03-20,NULL
+187,31,163.69,Shipped,NULL,"1928 Mercedes-Benz SSK",2004-10-14,2004-10-17,NULL
+187,31,163.69,Shipped,NULL,"1928 Mercedes-Benz SSK",2004-11-17,2004-11-18,NULL
+187,28,81.91,Shipped,NULL,"1932 Alfa Romeo 8C2300 Spider Sport",2003-03-18,2003-03-20,NULL
+187,28,81.91,Shipped,NULL,"1932 Alfa Romeo 8C2300 Spider Sport",2004-10-14,2004-10-17,NULL
+187,28,81.91,Shipped,NULL,"1932 Alfa Romeo 8C2300 Spider Sport",2004-11-17,2004-11-18,NULL
+187,42,62.00,Shipped,NULL,"1957 Ford Thunderbird",2003-03-18,2003-03-20,NULL
+187,42,62.00,Shipped,NULL,"1957 Ford Thunderbird",2004-10-14,2004-10-17,NULL
+187,42,62.00,Shipped,NULL,"1957 Ford Thunderbird",2004-11-17,2004-11-18,NULL
+187,36,72.02,Shipped,NULL,"1970 Chevy Chevelle SS 454",2003-03-18,2003-03-20,NULL
+187,36,72.02,Shipped,NULL,"1970 Chevy Chevelle SS 454",2004-10-14,2004-10-17,NULL
+187,36,72.02,Shipped,NULL,"1970 Chevy Chevelle SS 454",2004-11-17,2004-11-18,NULL
+187,29,43.27,Shipped,NULL,"1966 Shelby Cobra 427 S/C",2003-03-18,2003-03-20,NULL
+187,29,43.27,Shipped,NULL,"1966 Shelby Cobra 427 S/C",2004-10-14,2004-10-17,NULL
+187,29,43.27,Shipped,NULL,"1966 Shelby Cobra 427 S/C",2004-11-17,2004-11-18,NULL
+187,20,28.88,Shipped,NULL,"1939 Chevrolet Deluxe Coupe",2003-03-18,2003-03-20,NULL
+187,20,28.88,Shipped,NULL,"1939 Chevrolet Deluxe Coupe",2004-10-14,2004-10-17,NULL
+187,20,28.88,Shipped,NULL,"1939 Chevrolet Deluxe Coupe",2004-11-17,2004-11-18,NULL
+187,39,40.77,Shipped,NULL,"1938 Cadillac V-16 Presidential Limousine",2003-03-18,2003-03-20,NULL
+187,39,40.77,Shipped,NULL,"1938 Cadillac V-16 Presidential Limousine",2004-10-14,2004-10-17,NULL
+187,39,40.77,Shipped,NULL,"1938 Cadillac V-16 Presidential Limousine",2004-11-17,2004-11-18,NULL
+187,43,82.69,Shipped,NULL,"1949 Jaguar XK 120",2003-03-18,2003-03-20,NULL
+187,43,82.69,Shipped,NULL,"1949 Jaguar XK 120",2004-10-14,2004-10-17,NULL
+187,43,82.69,Shipped,NULL,"1949 Jaguar XK 120",2004-11-17,2004-11-18,NULL
+187,46,112.74,Shipped,NULL,"1952 Citroen-15CV",2003-03-18,2003-03-20,NULL
+187,46,112.74,Shipped,NULL,"1952 Citroen-15CV",2004-10-14,2004-10-17,NULL
+187,46,112.74,Shipped,NULL,"1952 Citroen-15CV",2004-11-17,2004-11-18,NULL
+187,27,80.47,Shipped,NULL,"1969 Chevrolet Camaro Z28",2003-03-18,2003-03-20,NULL
+187,27,80.47,Shipped,NULL,"1969 Chevrolet Camaro Z28",2004-10-14,2004-10-17,NULL
+187,27,80.47,Shipped,NULL,"1969 Chevrolet Camaro Z28",2004-11-17,2004-11-18,NULL
+187,37,96.37,Shipped,NULL,"2002 Chevy Corvette",2003-03-18,2003-03-20,NULL
+187,37,96.37,Shipped,NULL,"2002 Chevy Corvette",2004-10-14,2004-10-17,NULL
+187,37,96.37,Shipped,NULL,"2002 Chevy Corvette",2004-11-17,2004-11-18,NULL
+187,48,35.29,Shipped,NULL,"1936 Mercedes Benz 500k Roadster",2003-03-18,2003-03-20,NULL
+187,48,35.29,Shipped,NULL,"1936 Mercedes Benz 500k Roadster",2004-10-14,2004-10-17,NULL
+187,48,35.29,Shipped,NULL,"1936 Mercedes Benz 500k Roadster",2004-11-17,2004-11-18,NULL
+129,33,87.33,Shipped,NULL,"1937 Lincoln Berline",2003-03-25,2003-03-30,NULL
+129,33,87.33,Shipped,NULL,"1937 Lincoln Berline",2003-12-01,2003-12-02,NULL
+129,33,87.33,Shipped,NULL,"1937 Lincoln Berline",2004-11-18,2004-11-20,NULL
+129,48,48.52,Shipped,NULL,"1936 Mercedes-Benz 500K Special Roadster",2003-03-25,2003-03-30,NULL
+129,48,48.52,Shipped,NULL,"1936 Mercedes-Benz 500K Special Roadster",2003-12-01,2003-12-02,NULL
+129,48,48.52,Shipped,NULL,"1936 Mercedes-Benz 500K Special Roadster",2004-11-18,2004-11-20,NULL
+129,28,53.09,Shipped,NULL,"1934 Ford V8 Coupe",2003-03-25,2003-03-30,NULL
+129,28,53.09,Shipped,NULL,"1934 Ford V8 Coupe",2003-12-01,2003-12-02,NULL
+129,28,53.09,Shipped,NULL,"1934 Ford V8 Coupe",2004-11-18,2004-11-20,NULL
+129,43,94.25,Shipped,NULL,"18th Century Vintage Horse Carriage",2003-03-25,2003-03-30,NULL
+129,43,94.25,Shipped,NULL,"18th Century Vintage Horse Carriage",2003-12-01,2003-12-02,NULL
+129,43,94.25,Shipped,NULL,"18th Century Vintage Horse Carriage",2004-11-18,2004-11-20,NULL
+129,39,91.27,Shipped,NULL,"1917 Maxwell Touring Car",2003-03-25,2003-03-30,NULL
+129,39,91.27,Shipped,NULL,"1917 Maxwell Touring Car",2003-12-01,2003-12-02,NULL
+129,39,91.27,Shipped,NULL,"1917 Maxwell Touring Car",2004-11-18,2004-11-20,NULL
+129,26,85.70,Shipped,NULL,"1936 Chrysler Airflow",2003-03-25,2003-03-30,NULL
+129,26,85.70,Shipped,NULL,"1936 Chrysler Airflow",2003-12-01,2003-12-02,NULL
+129,26,85.70,Shipped,NULL,"1936 Chrysler Airflow",2004-11-18,2004-11-20,NULL
+144,29,197.16,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment","1952 Alpine Renault 1300",2003-03-24,2003-03-29,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment"
+144,29,197.16,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment","1952 Alpine Renault 1300",2004-11-03,2004-11-07,NULL
+144,29,197.16,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment","1952 Alpine Renault 1300",2004-11-09,2004-11-10,NULL
+144,29,197.16,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment","1952 Alpine Renault 1300",2004-11-19,NULL,"The outstaniding balance for this customer exceeds their credit limit. Order will be shipped when a payment is received."
+144,23,85.10,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment","1913 Ford Model T Speedster",2003-03-24,2003-03-29,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment"
+144,23,85.10,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment","1913 Ford Model T Speedster",2004-11-03,2004-11-07,NULL
+144,23,85.10,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment","1913 Ford Model T Speedster",2004-11-09,2004-11-10,NULL
+144,23,85.10,Shipped,"Customer requested that ad materials (such as posters, pamphlets) be included in the shippment","1913 Ford Model T Speedster",2004-11-19,NULL,"The outstaniding balance for this customer exceeds their credit limit. Order will be shipped when a payment is received."
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2003-03-26,2003-03-27,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2003-07-02,2003-07-03,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2003-08-08,2003-08-13,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2003-11-12,2003-11-18,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2004-03-11,2004-03-12,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2004-07-20,2004-07-23,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2004-08-20,2004-08-22,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2004-10-21,2004-10-23,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2004-11-19,2004-11-23,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2004-12-10,2004-12-14,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2005-01-19,2005-01-24,"Can we renegotiate this one?"
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2005-01-23,2005-01-25,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2005-02-17,2005-02-18,"Custom shipping instructions sent to warehouse"
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2005-02-28,2005-03-01,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2005-03-04,2005-03-07,"They want to reevaluate their terms agreement with Finance."
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2005-03-23,2005-03-28,NULL
+124,21,121.64,Shipped,NULL,"1958 Setra Bus",2005-05-29,NULL,"Custom shipping instructions were sent to warehouse"
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2003-03-26,2003-03-27,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2003-07-02,2003-07-03,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2003-08-08,2003-08-13,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2003-11-12,2003-11-18,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2004-03-11,2004-03-12,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2004-07-20,2004-07-23,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2004-08-20,2004-08-22,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2004-10-21,2004-10-23,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2004-11-19,2004-11-23,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2004-12-10,2004-12-14,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2005-01-19,2005-01-24,"Can we renegotiate this one?"
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2005-01-23,2005-01-25,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2005-02-17,2005-02-18,"Custom shipping instructions sent to warehouse"
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2005-02-28,2005-03-01,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2005-03-04,2005-03-07,"They want to reevaluate their terms agreement with Finance."
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2005-03-23,2005-03-28,NULL
+124,49,101.50,Shipped,NULL,"1940 Ford Pickup Truck",2005-05-29,NULL,"Custom shipping instructions were sent to warehouse"
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2003-03-26,2003-03-27,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2003-07-02,2003-07-03,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2003-08-08,2003-08-13,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2003-11-12,2003-11-18,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2004-03-11,2004-03-12,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2004-07-20,2004-07-23,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2004-08-20,2004-08-22,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2004-10-21,2004-10-23,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2004-11-19,2004-11-23,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2004-12-10,2004-12-14,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2005-01-19,2005-01-24,"Can we renegotiate this one?"
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2005-01-23,2005-01-25,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2005-02-17,2005-02-18,"Custom shipping instructions sent to warehouse"
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2005-02-28,2005-03-01,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2005-03-04,2005-03-07,"They want to reevaluate their terms agreement with Finance."
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2005-03-23,2005-03-28,NULL
+124,50,43.27,Shipped,NULL,"1939 Cadillac Limousine",2005-05-29,NULL,"Custom shipping instructions were sent to warehouse"
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2003-03-26,2003-03-27,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2003-07-02,2003-07-03,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2003-08-08,2003-08-13,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2003-11-12,2003-11-18,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2004-03-11,2004-03-12,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2004-07-20,2004-07-23,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2004-08-20,2004-08-22,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2004-10-21,2004-10-23,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2004-11-19,2004-11-23,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2004-12-10,2004-12-14,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2005-01-19,2005-01-24,"Can we renegotiate this one?"
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2005-01-23,2005-01-25,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2005-02-17,2005-02-18,"Custom shipping instructions sent to warehouse"
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2005-02-28,2005-03-01,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2005-03-04,2005-03-07,"They want to reevaluate their terms agreement with Finance."
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2005-03-23,2005-03-28,NULL
+124,23,58.82,Shipped,NULL,"1996 Peterbilt 379 Stake Bed with Outrigger",2005-05-29,NULL,"Custom shipping instructions were sent to warehouse"
+172,31,128.53,Shipped,NULL,"1962 LanciaA Delta 16V",2003-04-01,2003-04-02,NULL
+172,31,128.53,Shipped,NULL,"1962 LanciaA Delta 16V",2004-08-28,2004-09-01,NULL
+172,31,128.53,Shipped,NULL,"1962 LanciaA Delta 16V",2004-11-20,2004-11-24,"Customer requested that DHL is used for this shipping"
+172,39,106.78,Shipped,NULL,"1964 Mercedes Tour Bus",2003-04-01,2003-04-02,NULL
+172,39,106.78,Shipped,NULL,"1964 Mercedes Tour Bus",2004-08-28,2004-09-01,NULL
+172,39,106.78,Shipped,NULL,"1964 Mercedes Tour Bus",2004-11-20,2004-11-24,"Customer requested that DHL is used for this shipping"
+172,45,53.48,Shipped,NULL,"1926 Ford Fire Engine",2003-04-01,2003-04-02,NULL
+172,45,53.48,Shipped,NULL,"1926 Ford Fire Engine",2004-08-28,2004-09-01,NULL
+172,45,53.48,Shipped,NULL,"1926 Ford Fire Engine",2004-11-20,2004-11-24,"Customer requested that DHL is used for this shipping"
+172,48,169.34,Shipped,NULL,"1992 Ferrari 360 Spider red",2003-04-01,2003-04-02,NULL
+172,48,169.34,Shipped,NULL,"1992 Ferrari 360 Spider red",2004-08-28,2004-09-01,NULL
+172,48,169.34,Shipped,NULL,"1992 Ferrari 360 Spider red",2004-11-20,2004-11-24,"Customer requested that DHL is used for this shipping"
+172,41,105.34,Shipped,NULL,"1940s Ford truck",2003-04-01,2003-04-02,NULL
+172,41,105.34,Shipped,NULL,"1940s Ford truck",2004-08-28,2004-09-01,NULL
+172,41,105.34,Shipped,NULL,"1940s Ford truck",2004-11-20,2004-11-24,"Customer requested that DHL is used for this shipping"
+172,21,102.23,Shipped,NULL,"1962 Volkswagen Microbus",2003-04-01,2003-04-02,NULL
+172,21,102.23,Shipped,NULL,"1962 Volkswagen Microbus",2004-08-28,2004-09-01,NULL
+172,21,102.23,Shipped,NULL,"1962 Volkswagen Microbus",2004-11-20,2004-11-24,"Customer requested that DHL is used for this shipping"
+172,24,28.64,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2003-04-01,2003-04-02,NULL
+172,24,28.64,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2004-08-28,2004-09-01,NULL
+172,24,28.64,Shipped,NULL,"1958 Chevy Corvette Limited Edition",2004-11-20,2004-11-24,"Customer requested that DHL is used for this shipping"
+172,32,88.61,Shipped,NULL,"1980’s GM Manhattan Express",2003-04-01,2003-04-02,NULL
+172,32,88.61,Shipped,NULL,"1980’s GM Manhattan Express",2004-08-28,2004-09-01,NULL
+172,32,88.61,Shipped,NULL,"1980’s GM Manhattan Express",2004-11-20,2004-11-24,"Customer requested that DHL is used for this shipping"
+172,28,43.83,Shipped,NULL,"1954 Greyhound Scenicruiser",2003-04-01,2003-04-02,NULL
+172,28,43.83,Shipped,NULL,"1954 Greyhound Scenicruiser",2004-08-28,2004-09-01,NULL
+172,28,43.83,Shipped,NULL,"1954 Greyhound Scenicruiser",2004-11-20,2004-11-24,"Customer requested that DHL is used for this shipping"
+172,42,82.94,Shipped,NULL,"1982 Camaro Z28",2003-04-01,2003-04-02,NULL
+172,42,82.94,Shipped,NULL,"1982 Camaro Z28",2004-08-28,2004-09-01,NULL
+172,42,82.94,Shipped,NULL,"1982 Camaro Z28",2004-11-20,2004-11-24,"Customer requested that DHL is used for this shipping"
+424,46,111.39,Shipped,NULL,"1957 Chevy Pickup",2003-04-04,2003-04-07,NULL
+424,46,111.39,Shipped,NULL,"1957 Chevy Pickup",2003-10-20,2003-10-24,NULL
+424,46,111.39,Shipped,NULL,"1957 Chevy Pickup",2004-11-21,2004-11-26,NULL
+424,46,140.81,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2003-04-04,2003-04-07,NULL
+424,46,140.81,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2003-10-20,2003-10-24,NULL
+424,46,140.81,Shipped,NULL,"1998 Chrysler Plymouth Prowler",2004-11-21,2004-11-26,NULL
+424,47,56.64,Shipped,NULL,"1970 Dodge Coronet",2003-04-04,2003-04-07,NULL
+424,47,56.64,Shipped,NULL,"1970 Dodge Coronet",2003-10-20,2003-10-24,NULL
+424,47,56.64,Shipped,NULL,"1970 Dodge Coronet",2004-11-21,2004-11-26,NULL
+424,44,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2003-04-04,2003-04-07,NULL
+424,44,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2003-10-20,2003-10-24,NULL
+424,44,106.45,Shipped,NULL,"1992 Porsche Cayenne Turbo Silver",2004-11-21,2004-11-26,NULL
+424,27,100.70,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2003-04-04,2003-04-07,NULL
+424,27,100.70,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2003-10-20,2003-10-24,NULL
+424,27,100.70,Shipped,NULL,"Diamond T620 Semi-Skirted Tanker",2004-11-21,2004-11-26,NULL
+381,27,60.28,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2003-04-11,2003-04-13,NULL
+381,27,60.28,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2003-08-13,2003-08-14,NULL
+381,27,60.28,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2004-11-22,2004-11-27,NULL
+381,27,60.28,Shipped,NULL,"1950's Chicago Surface Lines Streetcar",2005-01-10,2005-01-12,NULL
+148,33,195.33,Shipped,NULL,"2001 Ferrari Enzo",2003-04-16,2003-04-17,NULL
+148,33,195.33,Shipped,NULL,"2001 Ferrari Enzo",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,33,195.33,Shipped,NULL,"2001 Ferrari Enzo",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,33,195.33,Shipped,NULL,"2001 Ferrari Enzo",2004-08-04,2004-08-05,NULL
+148,33,195.33,Shipped,NULL,"2001 Ferrari Enzo",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+148,43,148.06,Shipped,NULL,"1969 Corvair Monza",2003-04-16,2003-04-17,NULL
+148,43,148.06,Shipped,NULL,"1969 Corvair Monza",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,43,148.06,Shipped,NULL,"1969 Corvair Monza",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,43,148.06,Shipped,NULL,"1969 Corvair Monza",2004-08-04,2004-08-05,NULL
+148,43,148.06,Shipped,NULL,"1969 Corvair Monza",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+148,39,173.02,Shipped,NULL,"1969 Ford Falcon",2003-04-16,2003-04-17,NULL
+148,39,173.02,Shipped,NULL,"1969 Ford Falcon",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,39,173.02,Shipped,NULL,"1969 Ford Falcon",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,39,173.02,Shipped,NULL,"1969 Ford Falcon",2004-08-04,2004-08-05,NULL
+148,39,173.02,Shipped,NULL,"1969 Ford Falcon",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+148,26,121.57,Shipped,NULL,"1903 Ford Model A",2003-04-16,2003-04-17,NULL
+148,26,121.57,Shipped,NULL,"1903 Ford Model A",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,26,121.57,Shipped,NULL,"1903 Ford Model A",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,26,121.57,Shipped,NULL,"1903 Ford Model A",2004-08-04,2004-08-05,NULL
+148,26,121.57,Shipped,NULL,"1903 Ford Model A",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+148,21,81.68,Shipped,NULL,"Collectable Wooden Train",2003-04-16,2003-04-17,NULL
+148,21,81.68,Shipped,NULL,"Collectable Wooden Train",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,21,81.68,Shipped,NULL,"Collectable Wooden Train",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,21,81.68,Shipped,NULL,"Collectable Wooden Train",2004-08-04,2004-08-05,NULL
+148,21,81.68,Shipped,NULL,"Collectable Wooden Train",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+148,22,122.08,Shipped,NULL,"1970 Triumph Spitfire",2003-04-16,2003-04-17,NULL
+148,22,122.08,Shipped,NULL,"1970 Triumph Spitfire",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,22,122.08,Shipped,NULL,"1970 Triumph Spitfire",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,22,122.08,Shipped,NULL,"1970 Triumph Spitfire",2004-08-04,2004-08-05,NULL
+148,22,122.08,Shipped,NULL,"1970 Triumph Spitfire",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+148,23,73.73,Shipped,NULL,"1904 Buick Runabout",2003-04-16,2003-04-17,NULL
+148,23,73.73,Shipped,NULL,"1904 Buick Runabout",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,23,73.73,Shipped,NULL,"1904 Buick Runabout",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,23,73.73,Shipped,NULL,"1904 Buick Runabout",2004-08-04,2004-08-05,NULL
+148,23,73.73,Shipped,NULL,"1904 Buick Runabout",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+148,41,119.20,Shipped,NULL,"18th century schooner",2003-04-16,2003-04-17,NULL
+148,41,119.20,Shipped,NULL,"18th century schooner",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,41,119.20,Shipped,NULL,"18th century schooner",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,41,119.20,Shipped,NULL,"18th century schooner",2004-08-04,2004-08-05,NULL
+148,41,119.20,Shipped,NULL,"18th century schooner",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+148,21,55.65,Shipped,NULL,"1962 City of Detroit Streetcar",2003-04-16,2003-04-17,NULL
+148,21,55.65,Shipped,NULL,"1962 City of Detroit Streetcar",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,21,55.65,Shipped,NULL,"1962 City of Detroit Streetcar",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,21,55.65,Shipped,NULL,"1962 City of Detroit Streetcar",2004-08-04,2004-08-05,NULL
+148,21,55.65,Shipped,NULL,"1962 City of Detroit Streetcar",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+148,38,75.35,Shipped,NULL,"The Mayflower",2003-04-16,2003-04-17,NULL
+148,38,75.35,Shipped,NULL,"The Mayflower",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,38,75.35,Shipped,NULL,"The Mayflower",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,38,75.35,Shipped,NULL,"The Mayflower",2004-08-04,2004-08-05,NULL
+148,38,75.35,Shipped,NULL,"The Mayflower",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+148,45,89.38,Shipped,NULL,"The Queen Mary",2003-04-16,2003-04-17,NULL
+148,45,89.38,Shipped,NULL,"The Queen Mary",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,45,89.38,Shipped,NULL,"The Queen Mary",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,45,89.38,Shipped,NULL,"The Queen Mary",2004-08-04,2004-08-05,NULL
+148,45,89.38,Shipped,NULL,"The Queen Mary",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+148,50,52.42,Shipped,NULL,"Pont Yacht",2003-04-16,2003-04-17,NULL
+148,50,52.42,Shipped,NULL,"Pont Yacht",2003-09-19,2003-09-21,"They want to reevaluate their terms agreement with Finance."
+148,50,52.42,Shipped,NULL,"Pont Yacht",2003-10-22,2003-12-26,"This order was on hold because customers's credit limit had been exceeded. Order will ship when payment is received"
+148,50,52.42,Shipped,NULL,"Pont Yacht",2004-08-04,2004-08-05,NULL
+148,50,52.42,Shipped,NULL,"Pont Yacht",2005-03-02,2005-03-06,"We need to keep in close contact with their Marketing VP. He is the decision maker for all their purchases."
+216,36,86.15,Shipped,"Customer has worked with some of our vendors in the past and is aware of their MSRP","The Titanic",2003-04-21,2003-04-26,"Customer has worked with some of our vendors in the past and is aware of their MSRP"
+216,36,86.15,Shipped,"Customer has worked with some of our vendors in the past and is aware of their MSRP","The Titanic",2003-11-26,2003-12-01,"Customer inquired about remote controlled models and gold models."
+216,36,86.15,Shipped,"Customer has worked with some of our vendors in the past and is aware of their MSRP","The Titanic",2004-11-24,2004-11-25,"Customer is interested in buying more Ferrari models"
+382,46,112.88,Shipped,NULL,"1972 Alfa Romeo GTA",2003-04-28,2003-05-02,NULL
+382,46,112.88,Shipped,NULL,"1972 Alfa Romeo GTA",2004-07-16,2004-07-18,NULL
+382,46,112.88,Shipped,NULL,"1972 Alfa Romeo GTA",2004-11-24,2004-11-29,NULL
+382,46,112.88,Shipped,NULL,"1972 Alfa Romeo GTA",2005-05-17,2005-05-19,NULL
+382,43,151.38,Shipped,NULL,"1980s Black Hawk Helicopter",2003-04-28,2003-05-02,NULL
+382,43,151.38,Shipped,NULL,"1980s Black Hawk Helicopter",2004-07-16,2004-07-18,NULL
+382,43,151.38,Shipped,NULL,"1980s Black Hawk Helicopter",2004-11-24,2004-11-29,NULL
+382,43,151.38,Shipped,NULL,"1980s Black Hawk Helicopter",2005-05-17,2005-05-19,NULL
+382,21,74.84,Shipped,NULL,"1999 Yamaha Speed Boat",2003-04-28,2003-05-02,NULL
+382,21,74.84,Shipped,NULL,"1999 Yamaha Speed Boat",2004-07-16,2004-07-18,NULL
+382,21,74.84,Shipped,NULL,"1999 Yamaha Speed Boat",2004-11-24,2004-11-29,NULL
+382,21,74.84,Shipped,NULL,"1999 Yamaha Speed Boat",2005-05-17,2005-05-19,NULL
+382,27,95.28,Shipped,NULL,"1941 Chevrolet Special Deluxe Cabriolet",2003-04-28,2003-05-02,NULL
+382,27,95.28,Shipped,NULL,"1941 Chevrolet Special Deluxe Cabriolet",2004-07-16,2004-07-18,NULL
+382,27,95.28,Shipped,NULL,"1941 Chevrolet Special Deluxe Cabriolet",2004-11-24,2004-11-29,NULL
+382,27,95.28,Shipped,NULL,"1941 Chevrolet Special Deluxe Cabriolet",2005-05-17,2005-05-19,NULL
+382,41,64.40,Shipped,NULL,"1900s Vintage Bi-Plane",2003-04-28,2003-05-02,NULL
+382,41,64.40,Shipped,NULL,"1900s Vintage Bi-Plane",2004-07-16,2004-07-18,NULL
+382,41,64.40,Shipped,NULL,"1900s Vintage Bi-Plane",2004-11-24,2004-11-29,NULL
+382,41,64.40,Shipped,NULL,"1900s Vintage Bi-Plane",2005-05-17,2005-05-19,NULL
+382,35,72.58,Shipped,NULL,"1912 Ford Model T Delivery Wagon",2003-04-28,2003-05-02,NULL
+382,35,72.58,Shipped,NULL,"1912 Ford Model T Delivery Wagon",2004-07-16,2004-07-18,NULL
+382,35,72.58,Shipped,NULL,"1912 Ford Model T Delivery Wagon",2004-11-24,2004-11-29,NULL
+382,35,72.58,Shipped,NULL,"1912 Ford Model T Delivery Wagon",2005-05-17,2005-05-19,NULL
+382,20,63.12,Shipped,NULL,"1937 Horch 930V Limousine",2003-04-28,2003-05-02,NULL
+382,20,63.12,Shipped,NULL,"1937 Horch 930V Limousine",2004-07-16,2004-07-18,NULL
+382,20,63.12,Shipped,NULL,"1937 Horch 930V Limousine",2004-11-24,2004-11-29,NULL
+382,20,63.12,Shipped,NULL,"1937 Horch 930V Limousine",2005-05-17,2005-05-19,NULL
+382,35,82.18,Shipped,NULL,"1940 Ford Delivery Sedan",2003-04-28,2003-05-02,NULL
+382,35,82.18,Shipped,NULL,"1940 Ford Delivery Sedan",2004-07-16,2004-07-18,NULL
+382,35,82.18,Shipped,NULL,"1940 Ford Delivery Sedan",2004-11-24,2004-11-29,NULL
+382,35,82.18,Shipped,NULL,"1940 Ford Delivery Sedan",2005-05-17,2005-05-19,NULL
+382,28,62.10,Shipped,NULL,"Corsair F4U ( Bird Cage)",2003-04-28,2003-05-02,NULL
+382,28,62.10,Shipped,NULL,"Corsair F4U ( Bird Cage)",2004-07-16,2004-07-18,NULL
+382,28,62.10,Shipped,NULL,"Corsair F4U ( Bird Cage)",2004-11-24,2004-11-29,NULL
+382,28,62.10,Shipped,NULL,"Corsair F4U ( Bird Cage)",2005-05-17,2005-05-19,NULL
+382,25,57.34,Shipped,NULL,"The Schooner Bluenose",2003-04-28,2003-05-02,NULL
+382,25,57.34,Shipped,NULL,"The Schooner Bluenose",2004-07-16,2004-07-18,NULL
+382,25,57.34,Shipped,NULL,"The Schooner Bluenose",2004-11-24,2004-11-29,NULL
+382,25,57.34,Shipped,NULL,"The Schooner Bluenose",2005-05-17,2005-05-19,NULL
+382,29,74.23,Shipped,NULL,"HMS Bounty",2003-04-28,2003-05-02,NULL
+382,29,74.23,Shipped,NULL,"HMS Bounty",2004-07-16,2004-07-18,NULL
+382,29,74.23,Shipped,NULL,"HMS Bounty",2004-11-24,2004-11-29,NULL
+382,29,74.23,Shipped,NULL,"HMS Bounty",2005-05-17,2005-05-19,NULL
+382,38,67.22,Shipped,NULL,"The USS Constitution Ship",2003-04-28,2003-05-02,NULL
+382,38,67.22,Shipped,NULL,"The USS Constitution Ship",2004-07-16,2004-07-18,NULL
+382,38,67.22,Shipped,NULL,"The USS Constitution Ship",2004-11-24,2004-11-29,NULL
+382,38,67.22,Shipped,NULL,"The USS Constitution Ship",2005-05-17,2005-05-19,NULL
+382,26,63.67,Shipped,NULL,"American Airlines: MD-11S",2003-04-28,2003-05-02,NULL
+382,26,63.67,Shipped,NULL,"American Airlines: MD-11S",2004-07-16,2004-07-18,NULL
+382,26,63.67,Shipped,NULL,"American Airlines: MD-11S",2004-11-24,2004-11-29,NULL
+382,26,63.67,Shipped,NULL,"American Airlines: MD-11S",2005-05-17,2005-05-19,NULL
+382,28,40.22,Shipped,NULL,"Boeing X-32A JSF",2003-04-28,2003-05-02,NULL
+382,28,40.22,Shipped,NULL,"Boeing X-32A JSF",2004-07-16,2004-07-18,NULL
+382,28,40.22,Shipped,NULL,"Boeing X-32A JSF",2004-11-24,2004-11-29,NULL
+382,28,40.22,Shipped,NULL,"Boeing X-32A JSF",2005-05-17,2005-05-19,NULL
+114,29,118.94,Shipped,NULL,"1996 Moto Guzzi 1100i",2003-04-29,2003-05-01,NULL
+114,29,118.94,Shipped,NULL,"1996 Moto Guzzi 1100i",2003-05-21,2003-05-24,NULL
+114,29,118.94,Shipped,NULL,"1996 Moto Guzzi 1100i",2004-02-20,2004-02-24,NULL
+114,29,118.94,Shipped,NULL,"1996 Moto Guzzi 1100i",2004-11-24,2004-11-29,NULL
+114,29,118.94,Shipped,NULL,"1996 Moto Guzzi 1100i",2004-11-29,2004-11-30,"Can we deliver the new Ford Mustang models by end-of-quarter?"
+114,46,158.80,Shipped,NULL,"2003 Harley-Davidson Eagle Drag Bike",2003-04-29,2003-05-01,NULL
+114,46,158.80,Shipped,NULL,"2003 Harley-Davidson Eagle Drag Bike",2003-05-21,2003-05-24,NULL
+114,46,158.80,Shipped,NULL,"2003 Harley-Davidson Eagle Drag Bike",2004-02-20,2004-02-24,NULL
+114,46,158.80,Shipped,NULL,"2003 Harley-Davidson Eagle Drag Bike",2004-11-24,2004-11-29,NULL
+114,46,158.80,Shipped,NULL,"2003 Harley-Davidson Eagle Drag Bike",2004-11-29,2004-11-30,"Can we deliver the new Ford Mustang models by end-of-quarter?"
+114,29,82.79,Shipped,NULL,"P-51-D Mustang",2003-04-29,2003-05-01,NULL
+114,29,82.79,Shipped,NULL,"P-51-D Mustang",2003-05-21,2003-05-24,NULL
+114,29,82.79,Shipped,NULL,"P-51-D Mustang",2004-02-20,2004-02-24,NULL
+114,29,82.79,Shipped,NULL,"P-51-D Mustang",2004-11-24,2004-11-29,NULL
+114,29,82.79,Shipped,NULL,"P-51-D Mustang",2004-11-29,2004-11-30,"Can we deliver the new Ford Mustang models by end-of-quarter?"
+114,46,57.54,Shipped,NULL,"1936 Harley Davidson El Knucklehead",2003-04-29,2003-05-01,NULL
+114,46,57.54,Shipped,NULL,"1936 Harley Davidson El Knucklehead",2003-05-21,2003-05-24,NULL
+114,46,57.54,Shipped,NULL,"1936 Harley Davidson El Knucklehead",2004-02-20,2004-02-24,NULL
+114,46,57.54,Shipped,NULL,"1936 Harley Davidson El Knucklehead",2004-11-24,2004-11-29,NULL
+114,46,57.54,Shipped,NULL,"1936 Harley Davidson El Knucklehead",2004-11-29,2004-11-30,"Can we deliver the new Ford Mustang models by end-of-quarter?"
+114,35,110.45,Shipped,NULL,"1997 BMW R 1100 S",2003-04-29,2003-05-01,NULL
+114,35,110.45,Shipped,NULL,"1997 BMW R 1100 S",2003-05-21,2003-05-24,NULL
+114,35,110.45,Shipped,NULL,"1997 BMW R 1100 S",2004-02-20,2004-02-24,NULL
+114,35,110.45,Shipped,NULL,"1997 BMW R 1100 S",2004-11-24,2004-11-29,NULL
+114,35,110.45,Shipped,NULL,"1997 BMW R 1100 S",2004-11-29,2004-11-30,"Can we deliver the new Ford Mustang models by end-of-quarter?"
+114,39,93.01,Shipped,NULL,"1928 British Royal Navy Airplane",2003-04-29,2003-05-01,NULL
+114,39,93.01,Shipped,NULL,"1928 British Royal Navy Airplane",2003-05-21,2003-05-24,NULL
