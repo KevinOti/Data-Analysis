@@ -15,7 +15,8 @@ Data manipulation and Visualization, with concepts from SQL and Excel function
   
     The projects dives into the sql commands used for combining and manipulating tables 
     
-    ![Screenshot (3)](https://user-images.githubusercontent.com/86672704/174582041-852556da-f13f-417f-bbed-0f9ebd507108.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/86672704/174582830-05302af2-20f0-4f7e-920f-759f3871b55f.png)
+
 
     
  
@@ -23,12 +24,15 @@ Excel usage
 
     Power query - powerful tool used to combine the final tables (sales and customer information based on 
     the customer id the primary key in both tables.
-    ![Screenshot (6)](https://user-images.githubusercontent.com/86672704/174582590-20a484f4-0f25-45d0-81ae-493cd2ce1a6c.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/86672704/174582789-da77e75c-e200-4762-a6df-5dc3c2944474.png)
+
 
     
     Excel formulas - excel formulas such as 
-    ![Screenshot (5)](https://user-images.githubusercontent.com/86672704/174582306-6894cb4c-6d15-4671-9e17-245653df4de3.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/86672704/174582880-cd29f497-3a5d-4919-9910-e1e7385194df.png)
 
-        1.sum product
-        2.choose & match, 
+
+        1.Sum product
+        2.choose & match 
         3.If function to evaluate conditions
+        4.Vlookup
