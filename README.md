@@ -1,14 +1,14 @@
 # Data-Analysis
 Data manipulation and Visualization, with concepts from SQL and Excel function
 
-![Screenshot (2)](https://user-images.githubusercontent.com/86672704/174581759-de41d376-a821-4407-9e63-9217f199027b.png)
-
 
     The analysis workbook enables one to interact with the dashboard, the interaction can be on the basis of 
       
         1.All countries
         2.Individual country
         3.specific year or even all the years (2003 to 2005)
+        
+ ![Screenshot (2)](https://user-images.githubusercontent.com/86672704/174581759-de41d376-a821-4407-9e63-9217f199027b.png)
         
         
         
@@ -29,10 +29,11 @@ Excel usage
 
     
     Excel formulas - excel formulas such as 
-![Screenshot (5)](https://user-images.githubusercontent.com/86672704/174582880-cd29f497-3a5d-4919-9910-e1e7385194df.png)
 
 
         1.Sum product
         2.choose & match 
         3.If function to evaluate conditions
         4.Vlookup
+![Screenshot (5)](https://user-images.githubusercontent.com/86672704/174582880-cd29f497-3a5d-4919-9910-e1e7385194df.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/86672704/174583251-c475605b-5312-4236-8b53-315d044a3d65.png)
